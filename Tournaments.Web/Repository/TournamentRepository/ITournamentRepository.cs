@@ -1,4 +1,4 @@
-﻿using Tournaments.Web.Entities;
+﻿/*using Tournaments.Web.Entities;
 
 namespace Tournaments.Web.Repository.TournamentRepository
 {
@@ -11,3 +11,4 @@ namespace Tournaments.Web.Repository.TournamentRepository
         Task SaveAsync();
     }
 }
+*/

@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿/*using AutoMapper;
 using Tournaments.Web.Entities;
 using Tournaments.Web.Repository.TeamRepository;
 using Tournaments.Web.Service.TeamService.DTOs;
@@ -48,3 +48,4 @@ namespace Tournaments.Web.Service.TeamService
 
     }
 }
+*/

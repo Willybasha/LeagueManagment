@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*using Microsoft.EntityFrameworkCore;
 using Tournaments.Web.Data;
 using Tournaments.Web.Entities;
 
@@ -28,3 +28,4 @@ namespace Tournaments.Web.Repository.TournamentRepository
 
     }
 }
+*/

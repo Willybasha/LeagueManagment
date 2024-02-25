@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using AutoMapper;
 using Tournaments.Web.Entities;
 using Tournaments.Web.Repository.TournamentRepository;
@@ -67,3 +67,4 @@ namespace Tournament.Web.Service.TournamentService
         }
     }
 }
+*/

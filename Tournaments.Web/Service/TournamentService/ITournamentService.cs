@@ -1,4 +1,4 @@
-﻿
+﻿/*
 using Tournaments.Web.Service.TournamentService.DTOs;
 using Tournaments.Web.Services.TournamentService.DTOs;
 
@@ -13,3 +13,4 @@ namespace Tournaments.Web.Services.TournamentsService
         Task DeleteTournament(int tournamentid);
     }
 }
+*/

@@ -11,9 +11,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddAutoMapper(typeof(Program));
-builder.Services.AddScoped<ITeamRepository, TeamRepository>();
+//builder.Services.AddScoped<ITeamRepository, TeamRepository>();
 //builder.Services.AddScoped<ITournamentRepository, TournamentRepository>();
-builder.Services.AddScoped<ITeamService, TeamService>();
+//builder.Services.AddScoped<ITeamService, TeamService>();
 //builder.Services.AddScoped<ITournamentService, TournamentService>();
 
 

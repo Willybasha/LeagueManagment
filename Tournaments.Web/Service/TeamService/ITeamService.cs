@@ -1,4 +1,4 @@
-﻿
+﻿/*
 using Tournaments.Web.Service.TeamService.DTOs;
 
 namespace Tournaments.Web.Service.TeamService
@@ -9,3 +9,4 @@ namespace Tournaments.Web.Service.TeamService
         Task<TeamResponseDto> CreateTeam(TeamRequestDto team);
     }
 }
+*/

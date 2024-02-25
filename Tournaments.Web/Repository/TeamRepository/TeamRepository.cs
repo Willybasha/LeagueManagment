@@ -1,4 +1,4 @@
-﻿using Tournaments.Web.Data;
+﻿/*using Tournaments.Web.Data;
 using Tournaments.Web.Entities;
 
 using Microsoft.EntityFrameworkCore;
@@ -21,3 +21,4 @@ namespace Tournaments.Web.Repository.TeamRepository
         public async Task SaveAsync() => await _context.SaveChangesAsync();
     }
 }
+*/
